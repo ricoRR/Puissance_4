@@ -1,0 +1,30 @@
+* {
+	box-sizing: border-box;
+}
+
+.board {
+    background-color: blue;
+}
+
+.question {
+	padding: 0;
+	margin: 0;
+}
+
+.bouton {
+	text-align: justify;
+	display: inline-block;
+	margin-right: 2%;
+}
+
+circle.free {
+	fill: #fff;
+}
+
+circle.red {
+	fill: #D50000;
+}
+
+circle.yellow {
+	fill: #DAD400;
+}
